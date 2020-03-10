@@ -1,0 +1,7 @@
+n Main
+t files/song/01.mp3
+t E:/entertainment/to be watched/01 - 13 HOMO.mp3
+t E:/entertainment/to be watched/14 - 23 HOMO.mp3
+t E:/entertainment/to be watched/24 - 34 HOMO.mp3
+t E:/entertainment/to be watched/35 - 41 HOMO.mp3
+t E:/entertainment/to be watched/42 - 48 HOMO.mp3
